@@ -63,7 +63,7 @@ index 190eef0..e9cf485 100644
 +	},
 +
 +	"admin/status/firewall/nftables": {
-+		"title": "NFtables Firewall",
++		"title": "NFtables 防火墙",
 +		"order": 1,
  		"action": {
  			"type": "view",
@@ -77,7 +77,7 @@ index 190eef0..e9cf485 100644
  
 -	"admin/status/nftables/iptables": {
 +	"admin/status/firewall/iptables": {
-+		"title": "IPtables Firewall",
++		"title": "IPtables 防火墙",
 +		"order": 2,
  		"action": {
  			"type": "view",
